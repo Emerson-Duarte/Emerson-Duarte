@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Olá! Me chamo Emerson Duarte <img src="https://github.com/Emerson-Duarte/Emerson-Duarte/blob/main/gifs/ola.gif" width="30px">
+    Olá! Me chamo Emerson <img src="https://github.com/Emerson-Duarte/Emerson-Duarte/blob/main/gifs/ola.gif" align=right width="200px">
   </h2>
 </div>
 
