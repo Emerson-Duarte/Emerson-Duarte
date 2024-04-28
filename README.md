@@ -37,7 +37,6 @@ Tecnologias que estou aprendendo e que já passei pela minha carreira de program
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=plastic&logo=ruby)
 ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-CC0000?style=plastic&logo=ruby-on-rails)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&logoColor=FFA518)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -46,6 +45,7 @@ Tecnologias que estou aprendendo e que já passei pela minha carreira de program
 #### 🌐 Frontend : <br />
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
@@ -61,4 +61,5 @@ Tecnologias que estou aprendendo e que já passei pela minha carreira de program
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=blue)
 ![RubyMine](https://img.shields.io/badge/-RubyMine-000000?style=plastic&logo=jetbrains)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Emerson-Duarte/Emerson-Duarte)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Emerson-Duarte&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
