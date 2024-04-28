@@ -59,7 +59,8 @@ Tecnologias que estou aprendendo e que já passei pela minha carreira de program
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=blue)
-![RubyMine](https://img.shields.io/badge/-RubyMine-000000?style=plastic&logo=jetbrains)
+![RubyMine](https://img.shields.io/badge/-RubyMine-CC0000?style=plastic&logo=jetbrains&logoColor=black)
+![WebStorm](https://img.shields.io/badge/WebStorm-blue?style=flat&logo=webstorm&logoColor=black)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Emerson-Duarte&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
